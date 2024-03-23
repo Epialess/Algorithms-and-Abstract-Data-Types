@@ -1,0 +1,15 @@
+//-----------------------------------------------------------------------------
+// Andy Choi
+// achoi15
+// pa1
+// 
+// README
+// README file for CSE 101 Programming Assignment 1
+//-----------------------------------------------------------------------------
+
+
+List.h			Header file for doubly linked list ADT
+List.c 			C file of a doubly linked list ADT module
+ListClient.c 	Test client for linked list ADT
+Lex.c 			Client module that takes in a text file of strings and rearranges in lexicographic order
+Makefile 		Makefile for CSE 101 Programming Assignment 1
