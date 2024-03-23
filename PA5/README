@@ -1,0 +1,17 @@
+//---------------------------------------------------------------------------------------------------------
+// Andy Choi
+// achoi15
+// pa5
+// CSE101: Algorithms and Abstract Data Types
+// Patrick Tantalo
+// 
+// README file for Programming Assignment 5: Depth First Search and Strongly Connected Components in Graphs
+//---------------------------------------------------------------------------------------------------------
+
+FindComponents.c 			Top level client for the project - finding the shortest paths in graphs
+Graph.c 					Graph ADT implementation file using Depth First Search, time is a local variable in DFS() then its address is passed to Visit()
+Graph.h 					Graph header file
+GraphTest.c 				Test suite for the Graph ADT
+List.c 						List ADT implementation file
+List.h 						List ADT header file
+Makefile 					Makefile for project
