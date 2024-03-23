@@ -1,0 +1,18 @@
+//-----------------------------------------------------------------------------
+// Andy Choi
+// achoi15
+// pa3
+//
+// CSE101: Algorithms and Abstract Data Types/Patrick Tantalo
+// 
+// README file for Programming Assignment 3 
+//-----------------------------------------------------------------------------
+
+Arithmetic.c 		Top level client for the project
+BigInteger.c 		BigInteger ADT implementation file
+BigInteger.h 		BigInteger header file
+BigIntegerTest.c 	Test suite for the BigInteger ADT
+List.c 				List ADT implementation file
+List.h 				List ADT header file
+ListTest.c 			Test suite for the List ADT
+Makefile 			Makefile for project
